@@ -1,5 +1,10 @@
+---
+title: "RL Contents"
+date: 2020-08-13 12:46:00 -0400
+categories: RL
+---
 # Reinforcement Learning: An Introduction - Sutton, Barto
-1. Tabular Solution Methods
+##1. Tabular Solution Methods
 - Multi-armed Bandits
 - Finite Markov Decision Processes
 - Dynamic Programming
@@ -8,7 +13,7 @@
 - Multi-step Bootstrapping
 - Planning and Learning with Tabular Methods
 
-2. Approximate Solution Methods
+##2. Approximate Solution Methods
 - On-policy Prediction with Approximation
 - On-policy Control with Approximation
 - Off-policy Methods with Approximation
@@ -16,9 +21,9 @@
 - Policy Gradient Methods
 
 # David Silver
-# Part I: Elementary Reinforcement Learning
+## Part I: Elementary Reinforcement Learning
 
-Lec1. Introduction to Reinforcement Learning
+###Lec1. Introduction to Reinforcement Learning
 - About Reinforcement Learning
 - The Reinforcement Learning Problem
 	- Reward
@@ -27,7 +32,7 @@ Lec1. Introduction to Reinforcement Learning
 - Inside An RL Agent
 - Problems within Reinforcement Learning
 
-Lec2. Markov Decision Processes
+###Lec2. Markov Decision Processes
 - Markov Processes
 	- Markov Property
 	- Markov Chains
@@ -48,7 +53,7 @@ Lec2. Markov Decision Processes
 	- Partially Observable MDPs
 	- Average Reward MDPs
 
-Lec3. Planning by Dynamic Programming
+###Lec3. Planning by Dynamic Programming
 - What is Dynamic Programming?
 - Policy Evaluation
 	- Iterative Policy Evaluation
@@ -66,7 +71,7 @@ Lec3. Planning by Dynamic Programming
 	- Approximate Dynamic Programming
 - Contraction Mapping
 
-Lec4. Model-Free Prediction
+###Lec4. Model-Free Prediction
 - Monte-Carlo Learning
 	- Blackjack Example
 	- Incremental Monte-Carlo
@@ -82,7 +87,7 @@ Lec4. Model-Free Prediction
 	- Relationship Between Forward and Backward TD
 	- Forward and Backward Equivalence
 
-Lec5. Model-Free Control
+###Lec5. Model-Free Control
 - On-Policy / Off-Policy Learning
 - On-Policy Monte-Carlo Control
 	- Generalised Policy Iteration
@@ -98,9 +103,9 @@ Lec5. Model-Free Control
 - Summary
 	- Relationship Between DP and TD
 
-# Part II: Reinforcement Learning in Practice
+## Part II: Reinforcement Learning in Practice
 
-Lec6. Value Function Approximation
+###Lec6. Value Function Approximation
 - Introduction
 - Incremental Methods
 	- Gradient Descent
@@ -114,7 +119,7 @@ Lec6. Value Function Approximation
 	- Least Squares Prediction
 	- Least Squares Control
 
-Lec7. Policy Gradient
+###Lec7. Policy Gradient
 - Introduction
 	- Rock-Paper-Scissors Example
 	- Aliased Gridworld Example
@@ -131,7 +136,7 @@ Lec7. Policy Gradient
 	- Natural Policy Gradient
 	- Snake example
 
-Lec8. Integrating Learning and Planning
+###Lec8. Integrating Learning and Planning
 - Introduction
 	- Model-Based and Model-Free RL
 - Model-Based Reinforcement Learning
@@ -144,7 +149,7 @@ Lec8. Integrating Learning and Planning
 	- MCTS in Go
 	- Temporal-Difference Search
 
-Lec9. Exploration and Exploitation
+###Lec9. Exploration and Exploitation
 - Introduction
 	- Exploration vs. Exploitation Dilemma
 - Multi-Armed Bandits
@@ -160,7 +165,7 @@ Lec9. Exploration and Exploitation
 	- Probability Matching
 	- Information State Search
 
-Lec10. Classic Games
+###Lec10. Classic Games
 - State of the Art
 - Game Theory
 - Minimax Search
