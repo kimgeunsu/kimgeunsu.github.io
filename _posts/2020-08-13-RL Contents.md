@@ -82,8 +82,8 @@ categories: RL
 	- Unifed View
 - TD($\lambda$)
 	- n-Step TD
-	- Forward View of TD($\lambda$)
-	- Backward View of TD($\lambda$)
+	- Forward View of TD(λ)
+	- Backward View of TD(λ)
 	- Relationship Between Forward and Backward TD
 	- Forward and Backward Equivalence
 
@@ -95,7 +95,7 @@ categories: RL
 	- GLIE
 	- Blackjack Example
 - On-Policy Temporal-Difference Learning
-	- Sarsa($ \lambda $)
+	- Sarsa(λ)
 - Off-Policy Learning
 	- Importance Sampling
 	- Q-Learning
