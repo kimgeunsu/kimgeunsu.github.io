@@ -80,7 +80,7 @@ categories: RL
 	- Random Walk Example
 	- Batch MC and TD
 	- Unifed View
-- TD($\lambda$)
+- TD(λ)
 	- n-Step TD
 	- Forward View of TD(λ)
 	- Backward View of TD(λ)
