@@ -2,6 +2,8 @@
 title: "OC Contents"
 date: 2020-09-25 21:00:00 -0400
 categories: OC
+use_math: true
+
 ---
 # Calculus of Variations and Optimal Control Theory
 
