@@ -120,8 +120,8 @@ categories: OC
  Method of characteristics                               
  Canonical equations as characteristics of the HJB equation            
  ### Riccati equations and inequalities in robust control                     
- L2 gain                                         
- $H_{\infinity}$ control problem                                  
+ $L_2$ gain                                         
+ $H_{\infty}$ control problem                                  
  Riccati inequalities and LMIs                             
  ### Maximum principle for hybrid control systems                        
  Hybrid optimal control problem                            
