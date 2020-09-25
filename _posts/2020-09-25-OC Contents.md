@@ -6,11 +6,11 @@ categories: OC
 # Calculus of Variations and Optimal Control Theory
 
 ## 1. Introduction 
- - Optimal control problem                                    
- - Some background on finitedimensional optimization                    
+ ### Optimal control problem                                    
+ ### Some background on finitedimensional optimization                    
  Unconstrained optimization                              
  Constrained optimization                               
- - Preview of infinitedimensional optimization                         
+ ### Preview of infinitedimensional optimization                         
  Function spaces norms and local minima                      
  First variation and firstorder necessary condition                  
  Second variation and secondorder conditions                    
